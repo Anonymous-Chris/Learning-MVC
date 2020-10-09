@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -9,11 +9,11 @@ using MyProject.Models;
 
 namespace MyProject.Controllers
 {
-    public class HomeController : Controller
+    public class ChrisController : Controller
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public ChrisController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
