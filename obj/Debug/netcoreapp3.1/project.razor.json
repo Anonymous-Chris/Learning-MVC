@@ -14423,13 +14423,19 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> feature/one
       "FilePath": "c:\\Users\\skniy\\OneDrive\\Desktop\\MyProject\\Learning-MVC\\Views\\helo.cshtml",
       "TargetPath": "Views\\helo.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
 >>>>>>> 27f93c7... models added
+=======
+>>>>>>> feature/one
       "FilePath": "c:\\Users\\skniy\\OneDrive\\Desktop\\MyProject\\Learning-MVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
