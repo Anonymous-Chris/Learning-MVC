@@ -14392,6 +14392,7 @@
   "RootNamespace": "MyProject",
   "Documents": [
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\skniy\\OneDrive\\Desktop\\MyProject\\Learning-MVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14403,10 +14404,24 @@
     },
     {
       "FilePath": "c:\\Users\\skniy\\OneDrive\\Desktop\\MyProject\\Learning-MVC\\Views\\_ViewImports.cshtml",
+=======
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\Home\\Seem.cshtml",
+      "TargetPath": "Views\\Home\\Seem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\_ViewImports.cshtml",
+>>>>>>> feature/help
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\skniy\\OneDrive\\Desktop\\MyProject\\Learning-MVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -14443,6 +14458,35 @@
     {
       "FilePath": "c:\\Users\\skniy\\OneDrive\\Desktop\\MyProject\\Learning-MVC\\Views\\Home\\Seem.cshtml",
       "TargetPath": "Views\\Home\\Seem.cshtml",
+=======
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\helo.cshtml",
+      "TargetPath": "Views\\helo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\kshitij.lingthep\\Desktop\\Learning-git\\Learning-MVC\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+>>>>>>> feature/help
       "FileKind": "mvc"
     }
   ],
